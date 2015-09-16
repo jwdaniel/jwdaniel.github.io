@@ -1,0 +1,4 @@
+---
+layout: redirect
+redirect_url: https://tw.linkedin.com/in/jwwang1975
+---
